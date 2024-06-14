@@ -1848,3 +1848,40 @@ body {
     margin-right: 100px;
   }
 }
+
+
+@media only screen and  (max-width: 426px) {
+
+  .main-banner .item-1 {
+    background-image: url(../images/mbanner-01.jpg);
+  }
+  
+  .main-banner .item-2 {
+    background-image: url(../images/mbanner-02.jpg);
+  }
+  
+  .main-banner .item-3 {
+    background-image: url(../images/mbanner-03.jpg);
+  }
+  
+  .main-banner .item-4 {
+    background-image: url(../images/mbanner-04.jpg);
+  }
+  
+  .main-banner .item-5 {
+    background-image: url(../images/mbanner-05.jpg);
+  }
+  
+  .main-banner .item-6 {
+    background-image: url(../images/mbanner-06.jpg);
+  }
+  
+  .main-banner .item-7 {
+    background-image: url(../images/mbanner-07.jpg);
+  }
+
+  .main-banner .item span.category{
+    
+  }
+  
+}
